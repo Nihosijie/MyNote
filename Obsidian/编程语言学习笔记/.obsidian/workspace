@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "5ded55b7e05b23fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8986e736c30c29c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "coderwhy前端系统课/JavaScript/JavaScript.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8a4d38e491f681d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "coderwhy前端系统课/JavaScript/(JavaScript)手动实现数组的forEach函数.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd4153dfd487abd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "02d42f18a255d2c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1dfba4863400149",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd25241a9e623ce2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b8b8288093d1f31",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221
+  },
+  "right": {
+    "id": "4cd19ddf50ed4f9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea39122820f433d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dc2bec67f0d3d15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "coderwhy前端系统课/JavaScript/JavaScript.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e63801fbebcf356",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "coderwhy前端系统课/JavaScript/JavaScript.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d8986e736c30c29c",
+  "lastOpenFiles": [
+    "coderwhy前端系统课/JavaScript/JavaScript.md",
+    "coderwhy前端系统课/JavaScript/(JavaScript)手动实现数组的forEach函数.md",
+    "WSL/WSL.md",
+    "coderwhy前端系统课/Html+CSS/HTML+CSS.md",
+    "day04作业B刘凯.md",
+    "day04刘凯.md",
+    "animation.md",
+    "如何使用可选链运算符、空值合并运算符和逻辑空赋值运算符避免 JavaScript 中的错误.md",
+    "作业提交/day03刘凯.md",
+    "CSDN博客/js中问号的用法及含义。md.md"
+  ]
+}

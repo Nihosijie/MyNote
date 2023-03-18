@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "6c3b996b4783cf62",
+    "type": "split",
+    "children": [
+      {
+        "id": "bda2a2ccbfd98967",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14d44f29e49892d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程语言学习笔记/coderwhy前端系统课/JavaScript/JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1ed077e01c092963",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8159f0ef7e0fcba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程语言学习笔记/coderwhy前端系统课/JavaScript/JavaScript.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83e4cb637c4c9357",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfe9dfa1ef5d9636",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47729718b4d1190a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f88dd2179f8e349",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c74db3e99ec6547c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3721492e08d43ded",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9d8be81bbc782d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8884568a458b68d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "编程语言学习笔记/coderwhy前端系统课/JavaScript/JavaScript.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdd890042ec9d600",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "编程语言学习笔记/coderwhy前端系统课/JavaScript/JavaScript.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0592b7e54c5631a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e7af8f5e084e24c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "编程语言学习笔记/coderwhy前端系统课/JavaScript/JavaScript.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a8159f0ef7e0fcba",
+  "lastOpenFiles": [
+    "编程语言学习笔记/coderwhy前端系统课/JavaScript/(JavaScript)手动实现数组的forEach函数.md",
+    "编程语言学习笔记/coderwhy前端系统课/JavaScript/JavaScript.md",
+    "编程语言学习笔记/WSL/WSL.md"
+  ]
+}
